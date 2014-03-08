@@ -1,0 +1,47 @@
+.details{
+	margin-top: 69px;
+}
+.leftcontent{
+	float: left;
+	width: 60%;
+}
+.rightcontent{
+	float: right;
+	width: 40%;
+}
+h2{
+	font-family: 'Roboto Slab', serif;
+	font-size: 35px;
+	font-weight: 700;
+	color:#616161;
+	padding: 0;
+}
+.rightcontent p {
+	font-family: 'Roboto';
+	font-size: 15px;
+	color: #7f7f7f;
+	margin-top: 35px;
+}
+.seeproject{
+	margin-top: 43px;
+}
+.pages{
+	list-style: none;
+	text-align: center;
+	margin-bottom: 155px;
+	margin-top: 40px;
+}
+.pages li{
+	display: inline-block;
+}
+.cerc{
+	border-radius: 50%;
+	height: 11px;
+	width: 11px;
+	border:1px solid #acacac;
+
+}
+ a:hover .cerc{
+border:1px solid #fed7d5;
+}	
+

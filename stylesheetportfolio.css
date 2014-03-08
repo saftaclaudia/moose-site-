@@ -1,0 +1,61 @@
+.projectoption {
+list-style-type: none;
+text-align: center;
+}
+
+.projectoption li {
+	display: inline-block;
+	padding: 0px 24px 0px 24px;
+	margin-top: 107px;
+
+}
+.projectoption li:first-child{
+	color: #fa6c65;
+    border-right:2px solid #fb918c;
+    font-size: 16px;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: 700;
+    line-height: 1;
+}
+.projectoption li:last-child{
+	color:#e0e0e0;
+	font-family: 'Roboto Slab', serif;
+	font-weight: 300;
+	font-size: 18px;
+	color:#848484;
+}
+.maniuportfolio{
+	list-style-type: none;
+	text-align: center;
+	margin-top: 66px;
+
+}
+.maniuportfolio li{
+	text-decoration: none;
+	display:inline-block;
+	padding: 0 10px 0 10px;
+	font-size: 14px;
+	margin-bottom: 32px;
+	font-family: 'Roboto Condensed', sans-serif;
+	color:#616161;
+	font-weight: 700;
+}
+ .cercmeniu{
+	border-radius: 50%;
+	width: 7px;
+	height:7px;
+	border: 1px solid #e0e0e0;
+	display: inline-block;
+	margin-right: 3px;
+}
+
+.maniuportfolio a:hover .cercmeniu{
+	border: 1px solid #fa6c65;
+}
+.imagprojects{
+	margin-left: 145px;
+	margin-bottom: 169px
+}
+
+
+
