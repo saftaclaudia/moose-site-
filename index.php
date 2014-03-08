@@ -7,7 +7,7 @@
 	<link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/3.14.1/build/cssreset/cssreset-min.css">
 	<link type="text/css" rel="stylesheet" href="stylesheethomepage.css"/>
 	<link type="text/css" rel="stylesheet" href="clearfix.css"/>
-	<title>homepage</title>
+	<title>index</title>
 </head>
 <body>
 
