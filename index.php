@@ -17,7 +17,7 @@
 		<div class="wrapper">
 			<div><p class="slogan slogan1">Moose brings awesomenes</p></div>
 			<div><p class="slogan slogan2">A responsive templates with clean and professional design</p></div>
-			<div class="seeproject"><a href="projectsdetails.html">SEE PROJECT</a></div>
+			<div class="seeproject"><a href="projectsdetails.php">SEE PROJECT</a></div>
 	 	</div>
 	</div>
 

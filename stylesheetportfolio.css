@@ -52,9 +52,14 @@ text-align: center;
 .maniuportfolio a:hover .cercmeniu{
 	border: 1px solid #fa6c65;
 }
-.imagprojects{
-	margin-left: 145px;
-	margin-bottom: 169px
+.projects{
+	text-align: center;
+	margin-bottom: 169px;
+}
+.projects li{
+display: inline-block;
+margin-bottom: 10px;
+margin-right: 10px;
 }
 
 
