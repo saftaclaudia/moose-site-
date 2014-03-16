@@ -1,9 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<?php require('includes/head.php');?>
-
-	<title>projectsdetails</title>
+	<?php $title="see projects";
+	 require('includes/head.php');?>
 </head>
 <body>
 <?php require('includes/header.php');?>

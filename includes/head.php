@@ -8,3 +8,4 @@
 	<link type="text/css" rel="stylesheet" href="stylesheetservices.css"/>
 	<link type"text/css"  rel="stylesheet" href="stylesheetblog.css"/>
 	<link type="text/css" rel="stylesheet" href="clearfix.css"/>
+	<title><?php echo $title ?></title>

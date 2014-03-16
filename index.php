@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-<?php require('includes/head.php');?>
-	<title>homepage</title>
+	<?php $title="homepage";
+		require('includes/head.php');
+ 	?>
 </head>
 <body>
-
-	<?php require('includes/header.php');?>
+	<?php require('includes/header.php'); ?>
 
 	<div class="centralcontent">
 		<div class="wrapper">
