@@ -1,11 +1,11 @@
-.details{
+.detailsproject{
 	margin-top: 69px;
 }
-.leftcontent{
+.leftcontentproject{
 	float: left;
 	width: 60%;
 }
-.rightcontent{
+.rightcontentproject{
 	float: right;
 	width: 40%;
 }
@@ -16,7 +16,7 @@ h2{
 	color:#616161;
 	padding: 0;
 }
-.rightcontent p {
+.rightcontentproject p {
 	font-family: 'Roboto';
 	font-size: 15px;
 	color: #7f7f7f;
@@ -34,14 +34,14 @@ h2{
 .pages li{
 	display: inline-block;
 }
-.cerc{
+.cercproject{
 	border-radius: 50%;
 	height: 11px;
 	width: 11px;
 	border:1px solid #acacac;
 
 }
- a:hover .cerc{
+ a:hover .cercproject{
 border:1px solid #fed7d5;
 }	
 

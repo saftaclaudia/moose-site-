@@ -1,12 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<link href='http://fonts.googleapis.com/css?family=Roboto+Slab:700,300' rel='stylesheet' type='text/css'>
-	<link href='http://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
-	<link href='http://fonts.googleapis.com/css?family=Roboto+Condensed:700' rel='stylesheet' type='text/css'>
-	<link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/3.14.1/build/cssreset/cssreset-min.css">
-	<link type="text/css" rel="stylesheet" href="stylesheethomepage.css"/>
-	<link type="text/css" rel="stylesheet" href="clearfix.css"/>
+<?php require('includes/head.php');?>
 	<title>homepage</title>
 </head>
 <body>
@@ -27,30 +22,30 @@
 	 		<p>Nullam id dolor id nibh ultricies vehicula ut id elit. Maecenas sed diam eget risus varius blandit sit amet non magna. Duis mollis, est non commodo luctus, nisi erat porttitor ligula eget lacinia odio nec elit.</p>
 	 	</div>
 	
-		<div class="content">
+		<div class="contenthome">
 	 		<div class="wrapper">
-				<ul class="bottomico clearfix">
+				<ul class="bottomicohome clearfix">
 					<li>
 						<a href="https://www.facebook.com/">
-						<div class="cerc interfacedesign"></div>
+						<div class="cerchome interfacedesign"></div>
 						<strong>INTERFACE DESIGN</strong>
 						</a>
 					</li>
 					<li >
 						<a href="https://www.facebook.com/" >
-						<div class="cerc motiongraphic"></div>
+						<div class="cerchome motiongraphic"></div>
 							<strong>MOTION GRAPHIC</strong>
 						</a>
 					</li>
 					<li >
 						<a href="https://www.facebook.com/">
-							<div class="cerc photography"></div>
+							<div class="cerchome photography"></div>
 							<strong>PHOTOGRAPHY</strong>
 						</a>
 					</li>
 					<li >
 						<a href="https://www.facebook.com/">
-							<div class="cerc illustration"></div>
+							<div class="cerchome illustration"></div>
 							<strong>ILLUSTRATION</strong>
 						</a>
 					</li>
