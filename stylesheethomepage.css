@@ -68,6 +68,9 @@ a:hover{
 	height: 51px;
 	line-height: 51px;
 	padding:0px 26px 0 26px;
+	font-family: 'Roboto Condensed', sans-serif;
+	font-weight: 700;
+	font-size: 15px;
 }
 .menu li a:hover {
 	border-top: 2px solid #fa6c65;
